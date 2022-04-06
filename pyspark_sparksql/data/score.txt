@@ -1,0 +1,5 @@
+zhangsan,10,,50
+lisi,,女,60
+,12,男,90
+chenyi,11,女,
+chenhai,9,,64
