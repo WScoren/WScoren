@@ -1,6 +1,7 @@
 
 
 if __name__ == '__main__':
+    #矢量化运算实验
     a=[i for i in range(50)]
     b=[i+1 for i in range(50)]
     c=[0 for i in range(len(a))]
